@@ -1,4 +1,4 @@
-\# 🐍 Python Learning Journey
+# 🐍 Python Learning Journey
 
 
 
@@ -10,7 +10,7 @@ This isn't just a boring list of code; it's a step-by-step guide I put together 
 
 
 
-\## 🚀 Getting Started
+## 🚀 Getting Started
 
 
 
@@ -18,11 +18,11 @@ Before you run any code, make sure you have the basics set up.
 
 
 
-\### 1. Install Python
+### 1. Install Python
 
 Make sure you have Python installed.
 
-\* \*\*Check your version:\*\* Open your terminal/command prompt and type:
+* **Check your version:** Open your terminal/command prompt and type:
 
 &nbsp;   ```bash
 
@@ -34,15 +34,15 @@ Make sure you have Python installed.
 
 &nbsp;   ```
 
-\* \*Note: This tutorial is written for Python 3.10+, but it works great with the new Python 3.14!\*
+* *Note: This tutorial is written for Python 3.10+, but it works great with the new Python 3.14!*
 
 
 
-\### 2. VS Code (Recommended)
+### 2. VS Code (Recommended)
 
-I recommend using \*\*Visual Studio Code\*\* to edit these files. It makes reading code much easier.
+I recommend using **Visual Studio Code** to edit these files. It makes reading code much easier.
 
-\* Install the "Python" extension by Microsoft inside VS Code.
+* Install the "Python" extension by Microsoft inside VS Code.
 
 
 
@@ -50,7 +50,7 @@ I recommend using \*\*Visual Studio Code\*\* to edit these files. It makes readi
 
 
 
-\## 📚 How to Use This Repo
+## 📚 How to Use This Repo
 
 
 
@@ -58,37 +58,37 @@ I've organized the code into numbered folders so you can follow a logical path.
 
 
 
-\### The Curriculum
+### The Curriculum
 
 
 
-\* \*\*📂 01\_Basics\*\*
+* **📂 01_Basics**
 
-&nbsp;   \* `hello\_world.py`: Your first script.
+&nbsp;   * `hello_world.py`: Your first script.
 
-&nbsp;   \* `variables.py`: Understanding how to store data.
+&nbsp;   * `variables.py`: Understanding how to store data.
 
-&nbsp;   \* `math\_stuff.py`: Basic numbers and operations.
+&nbsp;   * `math_stuff.py`: Basic numbers and operations.
 
-\* \*\*📂 02\_Control\_Flow\*\*
+* **📂 02_Control_Flow**
 
-&nbsp;   \* `if\_else.py`: Making decisions in code.
+&nbsp;   * `if_else.py`: Making decisions in code.
 
-&nbsp;   \* `loops.py`: Repeating tasks (For and While loops).
+&nbsp;   * `loops.py`: Repeating tasks (For and While loops).
 
-\* \*\*📂 03\_Data\_Structures\*\*
+* **📂 03_Data_Structures**
 
-&nbsp;   \* `lists\_and\_dicts.py`: How to manage groups of data.
+&nbsp;   * `lists_and_dicts.py`: How to manage groups of data.
 
-\* \*\*📂 04\_Functions\*\*
+* **📂 04_Functions**
 
-&nbsp;   \* `my\_functions.py`: Writing reusable blocks of code.
+&nbsp;   * `my_functions.py`: Writing reusable blocks of code.
 
-\* \*\*📂 05\_Mini\_Projects\*\*
+* **📂 05_Mini_Projects**
 
-&nbsp;   \* `calculator.py`: A simple command-line calculator.
+&nbsp;   * `calculator.py`: A simple command-line calculator.
 
-&nbsp;   \* `guessing\_game.py`: A random number game.
+&nbsp;   * `guessing_game.py`: A random number game.
 
 
 
@@ -96,15 +96,15 @@ I've organized the code into numbered folders so you can follow a logical path.
 
 
 
-\## 🏃‍♂️ How to Run the Code
+## 🏃‍♂️ How to Run the Code
 
 
 
-1\.  Open your terminal or command prompt.
+1.  Open your terminal or command prompt.
 
-2\.  Navigate to the folder you want to run (e.g., `cd 01\_Basics`).
+2.  Navigate to the folder you want to run (e.g., `cd 01_Basics`).
 
-3\.  Run the file:
+3.  Run the file:
 
 
 
